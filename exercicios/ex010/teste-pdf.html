@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <h1>Vamos criar um link!</h1>
+    <p><a href="https://github.com/anacrisrb">Acesse meu perfil do GitHub.</a></p> <!--link de destino-->
+    
+    <p><a href="https://www.w3schools.com/" hreflang="en"> <!--indica o idioma principal do site-->
+        Site da W3Schools (em inglês)
+    </a></p>
+
+    <h1>Usando target</h1> <!--controlar onde a o site de destino irá abrir-->
+    <p><a href="pagina2.html" target="_self">
+        Continuar navegando no site
+    </a></p>
+    <p><a href="https://github.com/anacrisrb" target="_blank">
+        Abrir perfil GitHub em uma nova janela 
+    </a></p>
+
+    <h1>Usando rel</h1> <!--indicar qual é a natureza do destino-->
+    <p><a href="pagina2.html" target="_self" rel="next"> <!-- indicar que o link é para a próxima parte do documentos atual-->
+        Continuar navegando no site
+    </a></p>
+
+    <p><a href="https://github.com/anacrisrb" target="_blank" rel="external"> <!--indica que é um link para outro site que não faz parte do site atual-->
+        Abrir perfil GitHub uma nova janela
+    </a></p>
+
+</body>
+</html>
