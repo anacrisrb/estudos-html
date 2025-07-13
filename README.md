@@ -1,3 +1,3 @@
-## Repositório de sites desenvolvidos durante o estudo de HTML
+## Repositório de estudos do curso de HTML5 e CSS3 da plataforma Estudonauta!
 
-Bem-vindo ao repositório de estudos sobre HTML! Este repositório foi criado com o objetivo de compartilhar e organizar materiais e exemplos relacionados ao aprendizado de HTML com a plataforma Estudonauta/Curso em Video do professor Gustavo Guanabara, desde os conceitos básicos até técnicas mais avançadas.
+Bem-vindo ao repositório de estudos sobre HTML! Este repositório foi criado com o objetivo de compartilhar e organizar materiais, exercicios e aprendizados relacionados ao estudo de HTML com a plataforma Estudonauta/Curso em Video do professor Gustavo Guanabara. 
